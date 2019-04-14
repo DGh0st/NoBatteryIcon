@@ -1,0 +1,9 @@
+Package: com.dgh0st.nobatteryicon
+Name: NoBatteryIcon
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Hide the battery icon without the hiding the charging bolt.
+Maintainer: DGh0st <deeppwnage@yahoo.com>
+Author: DGh0st <deeppwnage@yahoo.com>
+Section: Tweaks
